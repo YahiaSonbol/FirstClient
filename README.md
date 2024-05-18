@@ -1,4 +1,4 @@
-• Developed a visually captivating and user-friendly website for SeaMarket, a seafood restaurant.
+• Developed a visually captivating and user-friendly website for SeaMarket, a seafood restaurant.<br>
 • Incorporated stunning ocean-themed visuals to create an immersive online experience.
 • Implemented a dynamic menu using Bootstrap, CSS, and JavaScript for enhanced user interaction.
 • Seamlessly integrated Bootstrap, CSS, and JavaScript to improve website functionality.
